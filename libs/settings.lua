@@ -1,4 +1,4 @@
-local scl = 2
+local scl = 1
 local dw = 320
 local dh = 240
 
